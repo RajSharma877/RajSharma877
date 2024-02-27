@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsharma877&label=Profile%20views&color=0e75b6&style=flat" alt="rajsharma877" /> </p>
 
-- 🔭 I’m currently working on **Miro Clone - A Real Time Dashboard**
+- 🔭 I’m currently working on **Imaginify - An AI SaaS image editing platform**
 
 - 🌱 I’m currently learning **AWS Cloud Foundations Course, Rust, NextJS, TypeScript, PostgreSQL**
 
