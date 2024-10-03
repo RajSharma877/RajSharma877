@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Vedic IDE](https://github.com/vedic-lang/vedic-ide)
 
-- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS**
+- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS, Python, SvelteKit**
 
 - 📫 How to reach me **rajsharma28440@gmail.com**
 
