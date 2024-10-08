@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajsharma28440@gmail.com**
 
-- 📄 Know about my experiences [https://www.kickresume.com/edit/7606463/fill-in/](https://www.kickresume.com/edit/7606463/fill-in/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/167rlve8oFNxPSZdIGUfiUalJWBIxyGRU/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
