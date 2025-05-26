@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Imaginify - An AI SaaS image editing platform**
 
-- 🌱 I’m currently learning **AWS Cloud Foundations Course, Rust, NextJS, TypeScript, PostgreSQL**
+- 🌱 I’m currently learning **DSA in Python, FastAPI, Automation Tools N8N and Windmill**
 
 - 👯 I’m looking to collaborate on [Vedic IDE](https://github.com/vedic-lang/vedic-ide)
 
-- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS, Python, SvelteKit**
+- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS, Python, SvelteKit, FastAPI**
 
 - 📫 How to reach me **rajsharma28440@gmail.com**
 
