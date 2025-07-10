@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsharma877&label=Profile%20views&color=0e75b6&style=flat" alt="rajsharma877" /> </p>
 
-- 🔭 I’m currently working on **Imaginify - An AI SaaS image editing platform**
+- 🔭 I’m currently working on **Terminal Style Stock Market Dashboard**
 
-- 🌱 I’m currently learning **DSA in Python, FastAPI, Automation Tools N8N and Windmill**
+- 🌱 I’m currently learning **DSA in Python, FastAPI, Automation Tools N8N and Windmill, PyQt5, Data Science**
 
 - 👯 I’m looking to collaborate on [Vedic IDE](https://github.com/vedic-lang/vedic-ide)
 
-- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS, Python, SvelteKit, FastAPI**
+- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS, Python, SvelteKit, FastAPI, PyQt5**
 
 - 📫 How to reach me **rajsharma28440@gmail.com**
 
