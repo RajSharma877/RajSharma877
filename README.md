@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Terminal Style Stock Market Dashboard**
 
-- 🌱 I’m currently learning **DSA in Python, FastAPI, Automation Tools N8N and Windmill, PyQt5, Data Science**
+- 🌱 I’m currently learning **DSA in Python, AI, ML, Statistics, PyQt5, Data Science**
 
 - 👯 I’m looking to collaborate on [Vedic IDE](https://github.com/vedic-lang/vedic-ide)
 
