@@ -1,6 +1,6 @@
 ![MasterHeader](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi49x0XdtD2N0ZITxiQ9YOarzY9lf6jK2kob18S1Xg1gkD8PXZg6B5BBA9WzDnitj6kK3c9IgqcLaPZut-IBMtlhYvwvQPbxd51n4KhdHz7iiXvXUqPK3RvldHAt_qiRoHhP7OYtRpoJKfUjhIx3Fsii7-DHbh3vEIu6eq92Vzk8pUgX1CzAFVTcXE3HHv0/w827-h248/raj1_header.png)
 <h1 align="center">Hi 👋, I'm Raj Sharma</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">Aspiring future data scientist · Passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsharma877&label=Profile%20views&color=0e75b6&style=flat" alt="rajsharma877" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Vedic IDE](https://github.com/vedic-lang/vedic-ide)
 
-- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS, Python, SvelteKit, FastAPI, PyQt5**
+- 💬 Ask me about **React, JavaScript, MERN, SQL, NextJS, Python, SvelteKit, FastAPI, PyQt5, NodeJS**
 
 - 📫 How to reach me **rajsharma28440@gmail.com**
 
