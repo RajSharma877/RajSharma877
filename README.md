@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajsharma28440@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/167rlve8oFNxPSZdIGUfiUalJWBIxyGRU/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KGq_vRkwdIWaxcu3k_dbY67lqjBd2Hs_/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
